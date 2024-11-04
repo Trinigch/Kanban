@@ -31,6 +31,18 @@ To start the application, run the following command:
 
 -npm run start:dev
 
+## Link to the deployed application
+
+https://kanban-tw3y.onrender.com
+
+
+
+##  screenshot
+
+
+<p align="center">
+  <img src="./client\src\assets/kanbanApp.png" alt="Kanban" width="600"/>
+</p>
 
 ## Credits
 
