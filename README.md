@@ -6,7 +6,7 @@
 
 ## Deploy 
 
-https://weather-dashboard-1-dd0l.onrender.com/
+
 
 ## Technologies
 
@@ -14,11 +14,16 @@ https://weather-dashboard-1-dd0l.onrender.com/
 -node.js
 -express
 -PostgreSQL
+-react-vite
+-react-router
+-sequalize
+-bcrypt
+-jwt
 
 ## Installation
 
 npm install 
-npm install pg
+npm run start:dev
 
 ## Usage
 
