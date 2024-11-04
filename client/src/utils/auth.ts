@@ -35,14 +35,14 @@ class AuthService {
     // TODO: redirect to the home page
     //Guarda el token en el localStorage y redirige a la página principal
     localStorage.setItem('id_token', idToken);
-    window.location.assign('/');
+ //   window.location.assign('/');
   }
 
   logout() {
     // TODO: remove the token from localStorage
     // TODO: redirect to the login page
     localStorage.removeItem('id_token');
-    window.location.assign('/login');
+ //   window.location.assign('/login');
   }
 }
 

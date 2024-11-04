@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import auth from '../utils/auth';
-
+import { useNavigate } from "react-router-dom";
 const Navbar = () => {
   const [ loginCheck, setLoginCheck ] = useState(false);
 
@@ -15,7 +15,7 @@ const Navbar = () => {
     console.log(loginCheck);
     checkLogin();
   }, [loginCheck])
-
+  const navigate = useNavigate();
   return (
 
     <div className='nav login-notice'>
@@ -40,6 +40,7 @@ const Navbar = () => {
           <li className='nav-item'>
             <button type='button' onClick={() => {
               auth.logout();
+              navigate("/");
             }}>Logout</button>
           </li>
         )
