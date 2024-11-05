@@ -37,7 +37,8 @@ https://kanban-tw3y.onrender.com
 
 
 <p align="center">
-  <img src="./client/src/assets/kanbanApp.png" alt="Kanban" width="600"/>
+ <img src="./src/assets/kanbanApp.png" alt="kanban" width="600"/>
+  <img src="./client/src/assets/kanbanApp.png"  width="600"/>
 </p>
 
 ## Credits
