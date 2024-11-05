@@ -45,11 +45,11 @@ https://kanban-tw3y.onrender.com
 </p>
 -Adding new ticket
 <p align="center">
- <img src="./kanbanApp.png" alt="kanban" width="600"/>
+ <img src="./kanbanApp3.png" alt="kanban" width="600"/>
 </p>
 - New ticket in the kanban card
 <p align="center">
- <img src="./kanbanApp.png" alt="kanban" width="600"/>
+ <img src="./kanbanApp4.png" alt="kanban" width="600"/>
 </p>
 
 ## Credits
