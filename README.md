@@ -35,7 +35,19 @@ https://kanban-tw3y.onrender.com
 
 ##  screenshot
 
-
+- Login 
+<p align="center">
+ <img src="./kanbanApp.png" alt="kanban" width="600"/>
+</p>
+- Cards the kanban
+<p align="center">
+ <img src="./kanbanApp2.png" alt="kanban" width="600"/>
+</p>
+-Adding new ticket
+<p align="center">
+ <img src="./kanbanApp.png" alt="kanban" width="600"/>
+</p>
+- New ticket in the kanban card
 <p align="center">
  <img src="./kanbanApp.png" alt="kanban" width="600"/>
 </p>

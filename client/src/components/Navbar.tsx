@@ -23,11 +23,7 @@ const Navbar = () => {
         <Link to='/'>Krazy Kanban Board </Link>
       </div>
       <ul>
-      <li className='nav-item'>
-      <button type='button'>
-          <Link to='/NewTicket'>New Ticket</Link>
-      </button>
-      </li>
+    
       
       {
         !loginCheck ? (
@@ -40,7 +36,7 @@ const Navbar = () => {
           <li className='nav-item'>
             <button type='button' onClick={() => {
               auth.logout();
-              navigate("/");
+              navigate("/login");
             }}>Logout</button>
           </li>
         )
